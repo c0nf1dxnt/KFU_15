@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\typographer\\typographersolution\\typographerproject\\forms\\typographerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|solutionrelative:typographerproject\\forms\\typographerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\typographerproject\\forms\\typographerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|solutionrelative:typographerproject\\forms\\typographerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\typographerproject\\forms\\typographerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|solutionrelative:typographerproject\\forms\\typographerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E251D998-1CFB-4626-BECA-ECF57F5E63CE}|TypographerUnitTests\\TypographerUnitTests.csproj|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\typographerunittests\\applicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E251D998-1CFB-4626-BECA-ECF57F5E63CE}|TypographerUnitTests\\TypographerUnitTests.csproj|solutionrelative:typographerunittests\\applicationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\typographerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6055C68-CD58-4377-8162-12D24C2BF7C0}|TypographerProject\\TypographerProject.csproj|solutionrelative:typographerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Program.cs",
+              "RelativeDocumentMoniker": "TypographerProject\\Program.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Program.cs",
+              "RelativeToolTip": "TypographerProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:26:48.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypographerForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.Designer.cs",
+              "RelativeDocumentMoniker": "TypographerProject\\Forms\\TypographerForm.Designer.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.Designer.cs",
+              "RelativeToolTip": "TypographerProject\\Forms\\TypographerForm.Designer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAASwIcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:44:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypographerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.cs",
+              "RelativeDocumentMoniker": "TypographerProject\\Forms\\TypographerForm.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.cs [Design]",
+              "RelativeToolTip": "TypographerProject\\Forms\\TypographerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:43:28.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationTests.cs",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerUnitTests\\ApplicationTests.cs",
+              "RelativeDocumentMoniker": "TypographerUnitTests\\ApplicationTests.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerUnitTests\\ApplicationTests.cs",
+              "RelativeToolTip": "TypographerUnitTests\\ApplicationTests.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwIUAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:11:35.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypographerForm.cs",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.cs",
+              "RelativeDocumentMoniker": "TypographerProject\\Forms\\TypographerForm.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Typographer\\TypographerSolution\\TypographerProject\\Forms\\TypographerForm.cs",
+              "RelativeToolTip": "TypographerProject\\Forms\\TypographerForm.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAtwEMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:58:39.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

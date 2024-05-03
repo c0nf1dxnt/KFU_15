@@ -1,0 +1,16 @@
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\bin\Debug\net8.0-windows\TypographerProject.exe
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\bin\Debug\net8.0-windows\TypographerProject.deps.json
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\bin\Debug\net8.0-windows\TypographerProject.runtimeconfig.json
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\bin\Debug\net8.0-windows\TypographerProject.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\bin\Debug\net8.0-windows\TypographerProject.pdb
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.TypographerForm.resources
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.csproj.GenerateResource.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.AssemblyInfoInputs.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.AssemblyInfo.cs
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\refint\TypographerProject.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.pdb
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.genruntimeconfig.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\ref\TypographerProject.dll
