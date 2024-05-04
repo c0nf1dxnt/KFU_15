@@ -8,7 +8,7 @@ namespace TypographerUnitTests
         [TestMethod]
         public void TestRule2()
         {
-            var inputString = "Привет,  как дела?";
+            var inputString = "Привет,     как дела?";
 
             var expectedString = "Привет, как дела?";
 
@@ -28,6 +28,19 @@ namespace TypographerUnitTests
             var form = new TypographerForm();
 
             var actual = form.ApplyRule3(inputString);
+
+            Assert.AreEqual(expectedString, actual);
+        }
+        [TestMethod]
+        public void TestRule5()
+        {
+            var inputString = "Супер - кот";
+
+            var expectedString = "Супер-кот";
+
+            var form = new TypographerForm();
+
+            var actual = form.ApplyRule5(inputString);
 
             Assert.AreEqual(expectedString, actual);
         }
@@ -54,19 +67,6 @@ namespace TypographerUnitTests
             var form = new TypographerForm();
 
             var actual = form.ApplyRule13(inputString);
-
-            Assert.AreEqual(expectedString, actual);
-        }
-        [TestMethod]
-        public void TestRule16()
-        {
-            var inputString = "Супер - кот";
-
-            var expectedString = "Супер-кот";
-
-            var form = new TypographerForm();
-
-            var actual = form.ApplyRule16(inputString);
 
             Assert.AreEqual(expectedString, actual);
         }

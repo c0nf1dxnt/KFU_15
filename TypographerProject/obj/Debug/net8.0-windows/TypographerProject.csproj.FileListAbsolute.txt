@@ -14,3 +14,4 @@ D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\Typograph
 D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.pdb
 D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.genruntimeconfig.cache
 D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\ref\TypographerProject.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\Typographer\TypographerSolution\TypographerProject\obj\Debug\net8.0-windows\TypographerProject.sourcelink.json

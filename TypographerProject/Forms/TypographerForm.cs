@@ -14,9 +14,9 @@ namespace TypographerProject
         {
             inputText = ApplyRule2(inputText);
             inputText = ApplyRule3(inputText);
+            inputText = ApplyRule5(inputText);
             inputText = ApplyRule9(inputText);
             inputText = ApplyRule13(inputText);
-            inputText = ApplyRule16(inputText);
 
             inputText = ApplyRetardedButCuteRule(inputText);
             inputText = ApplyCustomRule1(inputText);
@@ -47,6 +47,16 @@ namespace TypographerProject
             return Regex.Replace(inputText, "\"(.*?)\"", "«$1»");
         }
         /// <summary>
+        /// Метод, реализующий правило №5.
+        /// Дефис пробелами не отбивается и всегда пишется слитно с частями слова или цифр, которые он разделяет.
+        /// </summary>
+        /// <param name="inputText">Текст</param>
+        /// <returns>Исправленный текст</returns>
+        public string ApplyRule5(string inputText)
+        {
+            return Regex.Replace(inputText, @"\s+-\s+", "-");
+        }
+        /// <summary>
         /// Метод, реализующий правило №9.
         /// Символ «плюс-минус» задаётся так: ± не нужно использовать конструкции типа «(+,−)».
         /// </summary>
@@ -66,17 +76,6 @@ namespace TypographerProject
         public string ApplyRule13(string inputText)
         {
             return inputText.Replace("...", "…");
-        }
-        /// <summary>
-        /// Метод, реализующий правило №16.
-        /// Между тире и предыдущим словом желательно всегда ставитьнепереносимый пробел,
-        /// чтобы не было ситуаций, когда новая строка начинается с тире.
-        /// </summary>
-        /// <param name="inputText">Текст</param>
-        /// <returns>Исправленный текст</returns>
-        public string ApplyRule16(string inputText)
-        {
-            return Regex.Replace(inputText, @"\s+-\s+", "-");
         }
         /// <summary>
         /// Метод, реализующий абсурдное правило.
@@ -123,11 +122,21 @@ namespace TypographerProject
         private void PasteTextIntoInputRichTextBox(object sender, MouseEventArgs e)
         {
             inputRichTextBox.Paste();
+
+            MessageBox.Show("Текст успешно импортирован из буфера обмена", "Внимание!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void CopyTextFromOutputRichTextBox(object sender, MouseEventArgs e)
         {
-            outputRichTextBox.Copy();
+            if (outputRichTextBox.SelectedText.Length.Equals(0)) {
+                MessageBox.Show("Пожалуйста, выделите текст, который Вы хотите скопировать в буфер обмена", "Внимание!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                outputRichTextBox.Copy();
+            }
         }
         #endregion
 
